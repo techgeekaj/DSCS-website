@@ -36,3 +36,7 @@ author:
   twitter   : 
   facebook  : http://facebook.com/groups/DotSlashCS/
   linkedin  : 
+
+gems:
+  - jekyll
+  - sass
