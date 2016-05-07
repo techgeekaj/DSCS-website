@@ -3,7 +3,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-source: source
+# source: source
+exclude: [Gemfile, Gemfile.lock, LICENSE, README.md, '*.sublime*', robots.txt ]
 destination: _site
 sass:
   sass_dir: _sass
